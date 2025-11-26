@@ -1,4 +1,4 @@
-# Workflow Engine (TypeScript + Express)
+# Workflow Engine
 
 A minimal workflow automation engine that lets you define simple workflows (steps with dependencies) and run them. The project exposes a small HTTP API and a Swagger UI to add and trigger workflows interactively.
 
